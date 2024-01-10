@@ -1,1 +1,2 @@
 #BluePricingPanel
+#BluePricingPanel
